@@ -196,8 +196,8 @@ let linkedWhatsAppNumber = ""
 const usePairingCode = true
 
 const randomImages = [
-"https://files.catbox.moe/p6zux7.jpg",
-"https://files.catbox.moe/p6zux7.jpg",
+"https://files.catbox.moe/zi92hn.jpg",
+"https://files.catbox.moe/zi92hn.jpg",
 ];
 
 const getRandomImage = () =>
